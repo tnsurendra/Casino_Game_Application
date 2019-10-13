@@ -1,0 +1,132 @@
+Sep 25, 2019 12:34:00 AM com.playtech.casino.server.CasinoServer log
+INFO: Server is ready to receive messages from client...
+Sep 25, 2019 12:34:13 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user1
+Sep 25, 2019 12:34:13 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user1
+Sep 25, 2019 12:34:27 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user2
+Sep 25, 2019 12:34:27 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user2
+Sep 25, 2019 12:34:27 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user2
+Sep 25, 2019 12:34:38 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user3
+Sep 25, 2019 12:34:38 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user3
+Sep 25, 2019 12:34:38 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user3
+Sep 25, 2019 12:34:38 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Entered:user3
+Sep 25, 2019 12:36:30 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:36:30 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:36:30 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:36:30 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:36:30 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:48:20 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:48:20 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:48:20 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:48:20 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:48:20 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:48:20 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:49:31 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={KICKPLAYER=user2}, clientPort=49152]
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Kickingoff playeruser2:50063
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:50:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Player Exited:user2
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
+Sep 25, 2019 12:51:34 AM com.playtech.casino.server.CasinoServer log
+INFO: Recieved message from SErver mgr:ServerManageInfo [players=null, queryStatistics=null, command={SHOWCLIENTS=null}, clientPort=49152]
